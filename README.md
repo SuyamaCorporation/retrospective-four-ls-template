@@ -1,0 +1,1 @@
+4Lレトロスペクティブ（Liked/Learned/Lacked/Longed For）をカード形式で入力し、Markdown出力・チーム共有ができるふりかえりテンプレ。LocalStorage保存対応。
